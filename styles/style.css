@@ -1,0 +1,25 @@
+header {
+    border: 5px;
+    background-color: cornflowerblue;
+}
+
+footer {
+    border: 5px;
+    background-color: cornflowerblue;
+}
+
+main {
+    background-color: lightgoldenrodyellow;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style: None;
+}
+
+img {
+    width: 200px;
+}
